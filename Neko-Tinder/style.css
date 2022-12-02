@@ -4,6 +4,11 @@
     align-items: center;
     row-gap: 15px;
 }
+body{
+    background-color: rgb(39, 37, 37);
+    color: white;
+}
 #neko{
     max-width: 600px;
+    background: rgb(39, 37, 37);
 }
